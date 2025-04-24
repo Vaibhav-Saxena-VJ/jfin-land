@@ -578,6 +578,134 @@
 								</div>
 							</div>
 						</div>
+
+						<div class="col-12 space-bottom"><hr class="feature-line"></div>
+
+						<div class="col-xl-6 order-lg-4">
+							<div class="feature-content left-content3">
+								<h4 class="feature-content-title mb-10">From Lead to Loyalty—Made Seamless</h4>
+								<p class="mb-25">No more missed follow-ups or scattered data. With JFinmate, real-time lead management keeps your team aligned and responsive, turning prospects into clients faster.</p>
+								<div class="two-column style3 mb-35">
+									<div class="checklist">
+										<ul>
+											<li><i class="fas fa-check"></i>Instant Lead Updates</li>
+											<li><i class="fas fa-check"></i>Full Pipeline Visibility
+											</li>
+										</ul>
+									</div>
+									<div class="divider"></div>
+									<div class="checklist">
+										<ul>
+											<li><i class="fas fa-check"></i>Collaborative Lead Handling</li>
+											<li><i class="fas fa-check"></i>Unified Lead Dashboard</li>
+										</ul>
+									</div>
+								</div>
+								<div class="feature-wrap">
+									<div class="btn-wrap">
+										<a href="about.html" class="th-btn style-radius">view details</a>
+									</div>
+									<div class="about-client-box style2 mb-sm-0 mb-3">
+										<div class="client-thumb-group">
+											<div class="thumb">
+												<img src="{{ asset('theme') }}//img/testimonial/client-img-1-1.png" alt="avater">
+											</div>
+											<div class="thumb">
+												<img src="{{ asset('theme') }}//img/testimonial/client-img-1-2.png" alt="avater">
+											</div>
+											<div class="thumb">
+												<img src="{{ asset('theme') }}//img/testimonial/client-img-1-3.png" alt="avater">
+											</div>
+										</div>
+										<div class="cilent-box">
+											<div class="about_review">
+												<i class="fa-sharp fa-solid fa-star"></i>
+												<i class="fa-sharp fa-solid fa-star"></i>
+												<i class="fa-sharp fa-solid fa-star"></i>
+												<i class="fa-sharp fa-solid fa-star"></i>
+												<i class="fa-sharp fa-solid fa-star"></i>
+											</div>
+											<h4 class="cilent-box_counter"><span class="counter-number">2960</span>+ Client Reviews</h4>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-xl-6">
+							<div class="feature-thumb10_wrapp">
+								<div class="feature-thumb10-1">
+									<img src="{{ asset('theme') }}//img/normal/lead-mgmt-1.png" alt="img">
+								</div>
+								<div class="feature-thumb10-3 movingX">
+									<img src="{{ asset('theme') }}//img/normal/feature-img-10-3.jpg" alt="img">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="feature-wrap8 style2 space-top">
+					<div class="row justify-content-center justify-content-lg-between align-items-center">
+						<div class="col-xl-6">
+							<div class="feature-content left-content2">
+								<h4 class="feature-content-title mb-10">Celebrate Every Milestone, Reward Every Move</h4>
+								<p class="mb-25">Build lasting relationships by turning customer interactions into rewarding milestones—track engagement, automate rewards, and boost retention effortlessly with JFinmate’s smart loyalty program tools.</p>
+								<div class="two-column style3 mb-35">
+									<div class="checklist">
+										<ul>
+											<li><i class="fas fa-check"></i>Reward Every Interaction</li>
+											<li><i class="fas fa-check"></i>Retention Made Effortless</li>
+										</ul>
+									</div>
+									<div class="divider"></div>
+									<div class="checklist">
+										<ul>
+											<li><i class="fas fa-check"></i>Recognize What Matters</li>
+											<li><i class="fas fa-check"></i>See Loyalty in Action</li>
+										</ul>
+									</div>
+								</div>
+								<div class="feature-wrap">
+									<div class="btn-wrap">
+										<a href="about.html" class="th-btn style-radius">view details</a>
+									</div>
+									<div class="about-client-box style2 mb-sm-0 mb-3">
+										<div class="client-thumb-group">
+											<div class="thumb">
+												<img src="{{ asset('theme') }}//img/testimonial/client-img-1-1.png" alt="avater">
+											</div>
+											<div class="thumb">
+												<img src="{{ asset('theme') }}//img/testimonial/client-img-1-2.png" alt="avater">
+											</div>
+											<div class="thumb">
+												<img src="{{ asset('theme') }}//img/testimonial/client-img-1-3.png" alt="avater">
+											</div>
+										</div>
+										<div class="cilent-box">
+											<div class="about_review">
+												<i class="fa-sharp fa-solid fa-star"></i>
+												<i class="fa-sharp fa-solid fa-star"></i>
+												<i class="fa-sharp fa-solid fa-star"></i>
+												<i class="fa-sharp fa-solid fa-star"></i>
+												<i class="fa-sharp fa-solid fa-star"></i>
+											</div>
+											<h4 class="cilent-box_counter"><span class="counter-number">2960</span>+ Client Reviews</h4>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<div class="col-xl-6">
+							<div class="feature-thumb8_wrapp">
+								<div class="feature-thumb8-1">
+									<img src="{{ asset('theme') }}//img/normal/mlm.png" alt="img">
+								</div>
+								<div class="feature-thumb8-2 jump">
+									<img src="{{ asset('theme') }}//img/normal/feature-img-8-2.jpg" alt="img">
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
